@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo One Implicit Intent</string>
+    <string name="btnRP">RP</string>
+</resources>
